@@ -3,11 +3,11 @@
 # Website Peminjaman Ruang
 
 ## Profile Anggota
-- Ariza Malik Ismail    Bagian (Desain)
-- Billy Alfauzi Caesar  Bagian (Program)
-- Rezza Fauzi           Bagian (Testing)
-- Ilham Ramadhan        Bagian (Perencanaan)
-- Muhammad Iskandar     Bagian (Analisis)
+- Ariza Malik Ismail     312110299  Bagian (Desain)
+- Billy Alfauzi Caesar   312110153  Bagian (Program)
+- Rezza Fauzi            312110133  Bagian (Testing)
+- Ilham Ramadhan         312110609  Bagian (Perencanaan)
+- Muhammad Iskandar      312110035  Bagian (Analisis)
 
 ## Tentang Peminjaman Ruangan
 Peminjaman Ruangan merupakan sebuah aplikasi berbasis website yang bertujuan untuk mempermudah meminjam ruangan pada suatu universitas/Kampus.
