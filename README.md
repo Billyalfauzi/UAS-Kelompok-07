@@ -23,24 +23,4 @@ Peminjaman Ruangan merupakan sebuah aplikasi berbasis website yang bertujuan unt
 
 - Pengujian: Melakukan pengujian menyeluruh untuk memastikan bahwa aplikasi berfungsi dengan baik, sesuai dengan kebutuhan pengguna, dan tidak ada bug atau kesalahan yang signifikan. 
 
-## Entity Relationship Diagram
-
-![erd](img/erd.png)
-
-- Berdasarkan rancangan tabel pada gambar tsb, maka kami membuat tabel pada database dengan keterangan sebagai berikut ini: 
-
-![Tabel1](img/tbl1.png)
-
-![Tabel2](img/tbl2.png)
-
-![Tabel3](img/tbl3.png)
-
-## FRONTEND
-
-![fe](img/frontend.png.png)
-
-## BACKEND
-
-![be](img/backend.png.png)
-
 # Sekian & Terimakasih
